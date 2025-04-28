@@ -1,0 +1,31 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 20px 40px 20px 40px;
+  background-color: #ffffff51;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: #e0e0e0;
+}
+
+main {
+  margin-top: 100px;
+  padding: 20px;
+  background-color: #0000004a;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1, h2 {
+  color: #aa2323;
+}
+
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
